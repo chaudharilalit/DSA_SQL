@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/chaudharilalit/DSA_SQL/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/chaudharilalit/DSA_SQL/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/chaudharilalit/DSA_SQL/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/chaudharilalit/DSA_SQL/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
