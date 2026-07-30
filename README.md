@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaudharilalit/DSA_SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3024-type-of-triangle](https://github.com/chaudharilalit/DSA_SQL/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/chaudharilalit/DSA_SQL/tree/master/1189-maximum-number-of-balloons) |
+## Math
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/chaudharilalit/DSA_SQL/tree/master/3024-type-of-triangle) |
+## Sorting
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/chaudharilalit/DSA_SQL/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
