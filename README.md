@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0182-duplicate-emails](https://github.com/chaudharilalit/DSA_SQL/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/chaudharilalit/DSA_SQL/tree/master/0196-delete-duplicate-emails) |
+| [1527-patients-with-a-condition](https://github.com/chaudharilalit/DSA_SQL/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/chaudharilalit/DSA_SQL/tree/master/1667-fix-names-in-a-table) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/chaudharilalit/DSA_SQL/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 ## Array
