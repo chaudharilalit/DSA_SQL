@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/chaudharilalit/DSA_SQL/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/chaudharilalit/DSA_SQL/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/chaudharilalit/DSA_SQL/tree/master/0196-delete-duplicate-emails) |
 | [1527-patients-with-a-condition](https://github.com/chaudharilalit/DSA_SQL/tree/master/1527-patients-with-a-condition) |
