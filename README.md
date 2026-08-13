@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaudharilalit/DSA_SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0986-interval-list-intersections](https://github.com/chaudharilalit/DSA_SQL/tree/master/0986-interval-list-intersections) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/chaudharilalit/DSA_SQL/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [3024-type-of-triangle](https://github.com/chaudharilalit/DSA_SQL/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |
