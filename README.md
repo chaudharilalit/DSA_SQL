@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/chaudharilalit/DSA_SQL/tree/master/3024-type-of-triangle) |
+| [3360-stone-removal-game](https://github.com/chaudharilalit/DSA_SQL/tree/master/3360-stone-removal-game) |
 ## Sorting
 |  |
 | ------- |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/chaudharilalit/DSA_SQL/tree/master/0986-interval-list-intersections) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/chaudharilalit/DSA_SQL/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
