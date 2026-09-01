@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/chaudharilalit/DSA_SQL/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/chaudharilalit/DSA_SQL/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chaudharilalit/DSA_SQL/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2810-faulty-keyboard](https://github.com/chaudharilalit/DSA_SQL/tree/master/2810-faulty-keyboard) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chaudharilalit/DSA_SQL/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2810-faulty-keyboard](https://github.com/chaudharilalit/DSA_SQL/tree/master/2810-faulty-keyboard) |
 | [3360-stone-removal-game](https://github.com/chaudharilalit/DSA_SQL/tree/master/3360-stone-removal-game) |
 ## Sliding Window
 |  |
