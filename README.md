@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/chaudharilalit/DSA_SQL/tree/master/0643-maximum-average-subarray-i) |
 | [0986-interval-list-intersections](https://github.com/chaudharilalit/DSA_SQL/tree/master/0986-interval-list-intersections) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/chaudharilalit/DSA_SQL/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/chaudharilalit/DSA_SQL/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chaudharilalit/DSA_SQL/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3024-type-of-triangle](https://github.com/chaudharilalit/DSA_SQL/tree/master/3024-type-of-triangle) |
 ## Two Pointers
@@ -68,10 +69,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/chaudharilalit/DSA_SQL/tree/master/0643-maximum-average-subarray-i) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/chaudharilalit/DSA_SQL/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chaudharilalit/DSA_SQL/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chaudharilalit/DSA_SQL/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chaudharilalit/DSA_SQL/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/chaudharilalit/DSA_SQL/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
