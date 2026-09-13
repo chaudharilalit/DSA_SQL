@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3024-type-of-triangle](https://github.com/chaudharilalit/DSA_SQL/tree/master/3024-type-of-triangle) |
 | [3360-stone-removal-game](https://github.com/chaudharilalit/DSA_SQL/tree/master/3360-stone-removal-game) |
+| [3870-count-commas-in-range](https://github.com/chaudharilalit/DSA_SQL/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chaudharilalit/DSA_SQL/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
