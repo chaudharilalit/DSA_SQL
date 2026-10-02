@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaudharilalit/DSA_SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0647-palindromic-substrings](https://github.com/chaudharilalit/DSA_SQL/tree/master/0647-palindromic-substrings) |
 | [0986-interval-list-intersections](https://github.com/chaudharilalit/DSA_SQL/tree/master/0986-interval-list-intersections) |
 ## Binary Search
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/chaudharilalit/DSA_SQL/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chaudharilalit/DSA_SQL/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0647-palindromic-substrings](https://github.com/chaudharilalit/DSA_SQL/tree/master/0647-palindromic-substrings) |
 | [0771-jewels-and-stones](https://github.com/chaudharilalit/DSA_SQL/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/chaudharilalit/DSA_SQL/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chaudharilalit/DSA_SQL/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/chaudharilalit/DSA_SQL/tree/master/3483-unique-3-digit-even-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/chaudharilalit/DSA_SQL/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
