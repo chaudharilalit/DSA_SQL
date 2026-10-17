@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaudharilalit/DSA_SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/chaudharilalit/DSA_SQL/tree/master/0287-find-the-duplicate-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/chaudharilalit/DSA_SQL/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/chaudharilalit/DSA_SQL/tree/master/0643-maximum-average-subarray-i) |
 | [0986-interval-list-intersections](https://github.com/chaudharilalit/DSA_SQL/tree/master/0986-interval-list-intersections) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/chaudharilalit/DSA_SQL/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaudharilalit/DSA_SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/chaudharilalit/DSA_SQL/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/chaudharilalit/DSA_SQL/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/chaudharilalit/DSA_SQL/tree/master/0647-palindromic-substrings) |
 | [0986-interval-list-intersections](https://github.com/chaudharilalit/DSA_SQL/tree/master/0986-interval-list-intersections) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaudharilalit/DSA_SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/chaudharilalit/DSA_SQL/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/chaudharilalit/DSA_SQL/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
@@ -126,4 +129,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/chaudharilalit/DSA_SQL/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/chaudharilalit/DSA_SQL/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/chaudharilalit/DSA_SQL/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/chaudharilalit/DSA_SQL/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
