@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/chaudharilalit/DSA_SQL/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chaudharilalit/DSA_SQL/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3024-type-of-triangle](https://github.com/chaudharilalit/DSA_SQL/tree/master/3024-type-of-triangle) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chaudharilalit/DSA_SQL/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chaudharilalit/DSA_SQL/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chaudharilalit/DSA_SQL/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/chaudharilalit/DSA_SQL/tree/master/3024-type-of-triangle) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chaudharilalit/DSA_SQL/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3360-stone-removal-game](https://github.com/chaudharilalit/DSA_SQL/tree/master/3360-stone-removal-game) |
 | [3870-count-commas-in-range](https://github.com/chaudharilalit/DSA_SQL/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chaudharilalit/DSA_SQL/tree/master/3875-construct-uniform-parity-array-i) |
