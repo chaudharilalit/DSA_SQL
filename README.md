@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/chaudharilalit/DSA_SQL/tree/master/0062-unique-paths) |
 | [3024-type-of-triangle](https://github.com/chaudharilalit/DSA_SQL/tree/master/3024-type-of-triangle) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chaudharilalit/DSA_SQL/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3360-stone-removal-game](https://github.com/chaudharilalit/DSA_SQL/tree/master/3360-stone-removal-game) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/chaudharilalit/DSA_SQL/tree/master/0062-unique-paths) |
 | [0647-palindromic-substrings](https://github.com/chaudharilalit/DSA_SQL/tree/master/0647-palindromic-substrings) |
 ## Linked List
 |  |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/chaudharilalit/DSA_SQL/tree/master/0287-find-the-duplicate-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/chaudharilalit/DSA_SQL/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
