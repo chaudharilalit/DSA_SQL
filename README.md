@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/chaudharilalit/DSA_SQL/tree/master/0063-unique-paths-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/chaudharilalit/DSA_SQL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/chaudharilalit/DSA_SQL/tree/master/0287-find-the-duplicate-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/chaudharilalit/DSA_SQL/tree/master/0594-longest-harmonious-subsequence) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/chaudharilalit/DSA_SQL/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/chaudharilalit/DSA_SQL/tree/master/0063-unique-paths-ii) |
 | [0647-palindromic-substrings](https://github.com/chaudharilalit/DSA_SQL/tree/master/0647-palindromic-substrings) |
 ## Linked List
 |  |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/chaudharilalit/DSA_SQL/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/chaudharilalit/DSA_SQL/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
