@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/chaudharilalit/DSA_SQL/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3024-type-of-triangle](https://github.com/chaudharilalit/DSA_SQL/tree/master/3024-type-of-triangle) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chaudharilalit/DSA_SQL/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/chaudharilalit/DSA_SQL/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chaudharilalit/DSA_SQL/tree/master/3483-unique-3-digit-even-numbers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/chaudharilalit/DSA_SQL/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/chaudharilalit/DSA_SQL/tree/master/3875-construct-uniform-parity-array-i) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/chaudharilalit/DSA_SQL/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/chaudharilalit/DSA_SQL/tree/master/1189-maximum-number-of-balloons) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chaudharilalit/DSA_SQL/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/chaudharilalit/DSA_SQL/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3483-unique-3-digit-even-numbers](https://github.com/chaudharilalit/DSA_SQL/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
