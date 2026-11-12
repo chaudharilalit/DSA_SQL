@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/chaudharilalit/DSA_SQL/tree/master/0062-unique-paths) |
+| [0258-add-digits](https://github.com/chaudharilalit/DSA_SQL/tree/master/0258-add-digits) |
 | [3024-type-of-triangle](https://github.com/chaudharilalit/DSA_SQL/tree/master/3024-type-of-triangle) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/chaudharilalit/DSA_SQL/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3360-stone-removal-game](https://github.com/chaudharilalit/DSA_SQL/tree/master/3360-stone-removal-game) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/chaudharilalit/DSA_SQL/tree/master/0258-add-digits) |
 | [2810-faulty-keyboard](https://github.com/chaudharilalit/DSA_SQL/tree/master/2810-faulty-keyboard) |
 | [3360-stone-removal-game](https://github.com/chaudharilalit/DSA_SQL/tree/master/3360-stone-removal-game) |
 ## Sliding Window
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/chaudharilalit/DSA_SQL/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/chaudharilalit/DSA_SQL/tree/master/0064-minimum-path-sum) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/chaudharilalit/DSA_SQL/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
